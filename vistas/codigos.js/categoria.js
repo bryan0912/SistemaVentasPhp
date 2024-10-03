@@ -64,4 +64,7 @@ function listar() {
             "order": [[0, "desc"]]
         }
 
+    ).DataTable();
 init();
+echo "hola";
+}
